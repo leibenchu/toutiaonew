@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktoutiao_m"]=self["webpackChunktoutiao_m"]||[]).push([[889],{8889:function(t,e,u){u.r(e),u.d(e,{default:function(){return c}});var n=function(){var t=this,e=t._self._c;return e("div",{staticClass:"video"},[t._v("video")])},o=[],a={data(){return{}},components:{},computed:{},mounted(){},created(){},updated(){},methods:{}},s=a,d=u(1001),r=(0,d.Z)(s,n,o,!1,null,"408794a9",null),c=r.exports}}]);
+//# sourceMappingURL=889.46ebfc06.js.map
